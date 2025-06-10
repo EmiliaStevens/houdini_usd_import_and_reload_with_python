@@ -1,0 +1,1 @@
+# houdini_usd_import_and_reload_with_python
