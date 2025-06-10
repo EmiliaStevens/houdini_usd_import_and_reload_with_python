@@ -1,4 +1,7 @@
-#   EMILIA STEVENS
+#Created by EMILIA STEVENS
+#GitHub: https://github.com/EmiliaStevens
+#LinkedIn: https://www.linkedin.com/in/emilia-stevens-344b26354/
+#Artstation: https://www.artstation.com/emilia_stevens
 
 #This code needs to be copy pasted to the Houdini shelf tool
 
